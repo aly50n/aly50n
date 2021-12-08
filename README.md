@@ -1,12 +1,12 @@
-## Olá! Eu sou Alyson Morato! Sou aluno de Ciência da Computação na UEPB (Universidade Estadual da Paraíba).
+## | Olá! Eu sou Alyson Morato! Sou aluno de Ciência da Computação na UEPB (Universidade Estadual da Paraíba) |
 - 👀 Eu estou interessado em desenvolver front-end e back-end
 - 🌱 Eu estou aprendendo HTML5/CSS3
 - 📫 Pode entrar em contato comigo através do E-mail: alysonmorato.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/aly50n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aly50n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly50n&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aly50n&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly50n&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Aly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
