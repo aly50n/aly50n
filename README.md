@@ -1,5 +1,5 @@
 ## | Olá! Eu sou Alyson Morato! Curso Ciência da Computação na UEPB (Universidade Estadual da Paraíba) |
-- 👀 Estou interessado em desenvolver front-end e back-end.
+- 👀 Sou aspirante a desenvolvedor.
 - 🌱 Estou em processo de aprendizagem.
 
 <div align="center">
