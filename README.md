@@ -1,6 +1,6 @@
 ## | Olá! Eu sou Alyson Morato! Curso Ciência da Computação na UEPB (Universidade Estadual da Paraíba) |
-- 👀 futuro desenvolvedor.
-- 🌱 Estou em processo de aprendizagem.
+- 🛠 Desenvolvedor Front-End.
+- 🌱 Buscando sempre aprender mais.
 
 <div align="center">
   <a href="https://github.com/aly50n">
