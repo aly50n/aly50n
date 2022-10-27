@@ -8,15 +8,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly50n&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 <div style="display: inline_block"><br>
-  <p>Linguagens que tive contato:</p>
+  <p>Tecnologias que tive contato:</p>
   <img align="center" alt="Aly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aly-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"">
   <img align="center" alt="Aly-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Aly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aly-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="right" alt="Aly-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/824800131533635604/917952826410410024/unnamed.png">
+  <img align="center" alt="Aly-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Aly-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Aly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">                                                                                                                 
+  <img align="right" alt="Aly-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/950379846641528892/1034988517106917377/Alyson_Avatar_DevfireClub.png">
   
 </div>
   
