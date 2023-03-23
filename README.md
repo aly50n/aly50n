@@ -1,4 +1,5 @@
-## | Olá! Eu sou Alyson Morato! Curso Ciência da Computação na UEPB (Universidade Estadual da Paraíba) |
+## | Olá! Eu sou Alyson Morato! |
+Como um programador com habilidades em HTML, CSS, JavaScript e React, eu sou apaixonado por criar interfaces de usuário intuitivas e agradáveis para o usuário final. Minhas experiências básicas em linguagens como Python, Java e C++ me permitem ter uma compreensão mais ampla de programação e me ajudam a solucionar problemas com mais eficácia. Eu estou sempre procurando aprender novas tecnologias e ferramentas que me ajudem a criar interfaces de usuário ainda melhores. Sou um grande defensor do trabalho em equipe e sempre busco colaborar com outros desenvolvedores para criar projetos de alta qualidade.
 - 🛠 Desenvolvedor Front-End.
 - 🌱 Buscando sempre aprender mais.
 
