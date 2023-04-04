@@ -1,5 +1,5 @@
-## | Olá! Eu sou Alyson Morato! |
-Como um programador com habilidades em HTML, CSS, JavaScript e React, eu sou apaixonado por criar interfaces de usuário intuitivas e agradáveis para o usuário final. Minhas experiências básicas em linguagens como Python, Java e C++ me permitem ter uma compreensão mais ampla de programação e me ajudam a solucionar problemas com mais eficácia. Eu estou sempre procurando aprender novas tecnologias e ferramentas que me ajudem a criar interfaces de usuário ainda melhores. Sou um grande defensor do trabalho em equipe e sempre busco colaborar com outros desenvolvedores para criar projetos de alta qualidade.
+## | Opa eae?! Eu sou Alyson Morato! |
+Aspirante a desenvolvedor e entusiasta de tecnologia. Atualmente sou estudante de Ciências da computação pela Universidade Estadual da Paraíba - UEPB, com muita ambição de entrar no mercado de trabalho para me aperfeiçoar nas tecnologias do momento.
 - 🛠 Desenvolvedor Front-End.
 - 🌱 Buscando sempre aprender mais.
 
