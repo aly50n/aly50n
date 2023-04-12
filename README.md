@@ -5,8 +5,6 @@ Aspirante a desenvolvedor e entusiasta de tecnologia. Atualmente sou estudante d
 
 <div align="center">
   <a href="https://github.com/aly50n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aly50n&show_icons=true&theme=dark/>
-    
 </div>
 <div style="display: inline_block"><br>
   <p>Tecnologias que tive contato:</p>
