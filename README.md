@@ -1,8 +1,15 @@
 ## | Opa eae?! Eu sou Alyson Morato! |
 Aspirante a desenvolvedor e entusiasta de tecnologia. Atualmente sou estudante de Ciências da computação pela Universidade Estadual da Paraíba - UEPB, com muita ambição de entrar no mercado de trabalho para me aperfeiçoar nas tecnologias do momento.
-- 🛠 Dev.
-- 🌱 Buscando sempre aprender mais.
+[![GitHub Alyson Morato](https://img.shields.io/github/followers/aly50n?label=Seguir&style=social)](https://github.com/aly50n)
 
+## GitHub Stats 📊
+<div>
+  <a href="https://github.com/aly50n">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aly50n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly50n&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<hr>
+  
 <div align="center">
   <a href="https://github.com/aly50n">
 </div>
