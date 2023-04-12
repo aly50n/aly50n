@@ -1,11 +1,11 @@
 ## | Opa eae?! Eu sou Alyson Morato! |
 Aspirante a desenvolvedor e entusiasta de tecnologia. Atualmente sou estudante de Ciências da computação pela Universidade Estadual da Paraíba - UEPB, com muita ambição de entrar no mercado de trabalho para me aperfeiçoar nas tecnologias do momento.
-- 🛠 Desenvolvedor Front-End.
+- 🛠 Dev.
 - 🌱 Buscando sempre aprender mais.
 
 <div align="center">
   <a href="https://github.com/aly50n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aly50n&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aly50n&amp;show_icons=true&amp;theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly50n&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 <div style="display: inline_block"><br>
