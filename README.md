@@ -5,8 +5,8 @@ Aspirante a desenvolvedor e entusiasta de tecnologia. Atualmente sou estudante d
 
 <div align="center">
   <a href="https://github.com/aly50n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aly50n&amp;show_icons=true&amp;theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aly50n&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClecioSousa00&show_icons=true&theme=dark/>
+    
 </div>
 <div style="display: inline_block"><br>
   <p>Tecnologias que tive contato:</p>
