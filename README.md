@@ -28,9 +28,6 @@
   <img align="center" alt="Aly-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Aly-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   
-  
-  <img align="right" alt="Aly-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/950379846641528892/1230114411285577728/Alyson_Avatar_DevfireClub.png">
-  
 </div>
   
   ##
