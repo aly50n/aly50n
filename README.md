@@ -1,4 +1,4 @@
-## | Olá, Sejam Bem Vindos ao meu GitHub! |
+## | Olá! Sejam bem vindos ao meu GitHub! |
 <p>Bacharelado em Computação pela Universidade Estadual da Paraíba - UEPB em 2024.1</p>
 
 [![GitHub Alyson Morato](https://img.shields.io/github/followers/aly50n?label=Seguir&style=social)](https://github.com/aly50n)
