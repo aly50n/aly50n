@@ -1,5 +1,5 @@
-## | Eai tudo bem?! Eu sou Alyson Morato! |
-<p>Formado com Bacharelado em Computação pela Universidade Estadual da Paraíba - UEPB em 2024.1, com muita ambição de entrar no mercado de trabalho para me aperfeiçoar nas tecnologias do momento.</p>
+## | Olá, Sejam Bem Vindos ao Meu GitHub! |
+<p>* Bacharelado em Computação pela Universidade Estadual da Paraíba - UEPB em 2024.1</p>
 
 [![GitHub Alyson Morato](https://img.shields.io/github/followers/aly50n?label=Seguir&style=social)](https://github.com/aly50n)
 
