@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Eu sou Alyson Morato!<br><br>- 📚 Atualmente estou desenvolvendo meus conhecimentos em Java com Springboot, criando API's buscando gerar soluções inovadoras.<br>- ⚡ No meu tempo livre eu gosto de tocar violão, jogar, conversar com os amigos e pesquisar novidades techs.</p>
+<p align="left">Eu sou Alyson Morato!<br><br>- 📚 Atualmente estou desenvolvendo meus conhecimentos em Java com Springboot, criando API's buscando gerar soluções inovadoras.<br>- ⚡ No meu tempo livre eu gosto de 🎵tocar violão, 🎮 jogar, 💬conversar com os amigos e 🔎🆕pesquisar novidades techs.</p>
 
 ###
 
